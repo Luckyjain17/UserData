@@ -1,0 +1,31 @@
+.user-details-container {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 20px;
+  }
+  
+  .back-button {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    color: #007bff;
+    font-size: 16px;
+  }
+  
+  .back-icon {
+    margin-right: 8px;
+  }
+  
+  .user-info {
+    margin-top: 16px;
+  }
+  
+  .user-info p {
+    margin: 8px 0;
+  }
+  
+  .user-info p strong {
+    margin-right: 8px;
+  }
+  
